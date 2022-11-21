@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Hello python]]>
+    </line>
+    <line>
+      <![CDATA[hello java]]>
+    </line>
+    <line>
+      <![CDATA[Hello Appium]]>
+    </line>
+    <line>
+      <![CDATA[Hello Selenium]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-11-21T19:31:56 IST" name="Suite" finished-at="2022-11-21T19:31:56 IST" duration-ms="77">
+    <groups>
+    </groups>
+    <test started-at="2022-11-21T19:31:56 IST" name="Test" finished-at="2022-11-21T19:31:56 IST" duration-ms="77">
+      <class name="testscripts.Testcase2">
+        <test-method signature="tc2()[pri:0, instance:testscripts.Testcase2@6d2a209c]" started-at="2022-11-21T19:31:56 IST" name="tc2" finished-at="2022-11-21T19:31:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hello java]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- testscripts.Testcase2 -->
+      <class name="testscripts.Testcase3">
+        <test-method signature="tc3()[pri:0, instance:testscripts.Testcase3@5e316c74]" started-at="2022-11-21T19:31:56 IST" name="tc3" finished-at="2022-11-21T19:31:56 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hello python]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- testscripts.Testcase3 -->
+      <class name="testscripts.Testcase4">
+        <test-method signature="tc4()[pri:0, instance:testscripts.Testcase4@75329a49]" started-at="2022-11-21T19:31:56 IST" name="tc4" finished-at="2022-11-21T19:31:56 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hello Appium]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+      </class> <!-- testscripts.Testcase4 -->
+      <class name="testscripts.Teatcase1">
+        <test-method signature="ts1()[pri:0, instance:testscripts.Teatcase1@161479c6]" started-at="2022-11-21T19:31:56 IST" name="ts1" finished-at="2022-11-21T19:31:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hello Selenium]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ts1 -->
+      </class> <!-- testscripts.Teatcase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
